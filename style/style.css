@@ -1,0 +1,26 @@
+/* banner- style */
+.banner{
+    background-image: url(../new-year-offer-resources/images/Banner\ Image.png);
+    align-items: center;
+    text-align: center;
+    width: 1320px;
+    height: 600px;
+    
+
+
+    
+}
+
+.banner-sub-title{
+    font-weight: 400;
+    font-size: 32px;
+    color: #f8ebeb;
+
+}
+.banner-title{
+
+    font-weight: 900;
+    font-size: 72px;
+    color: #e6d4d4;
+    
+}
