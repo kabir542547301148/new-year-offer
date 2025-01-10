@@ -1,7 +1,7 @@
 /* banner- style */
 .banner{
     background-image: url(../new-year-offer-resources/images/Banner\ Image.png);
-    align-items: center;
+    margin: auto;
     text-align: center;
     width: 1320px;
     height: 600px;
@@ -15,6 +15,7 @@
     font-weight: 400;
     font-size: 32px;
     color: #f8ebeb;
+    padding-top: 177px;
 
 }
 .banner-title{
@@ -22,5 +23,83 @@
     font-weight: 900;
     font-size: 72px;
     color: #e6d4d4;
+    padding-bottom: 177px;
     
+}
+
+/* discount-style */
+.discount{
+    background-image: url(../new-year-offer-resources/images/New\ Year\ Photo.png);
+    margin: auto;
+    text-align: center;
+    width: 802px;
+    height: 806px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+.discount-content{
+    padding-top: 120px;
+    
+}
+.discount-title{
+    font-weight: bold;
+    color: #FF0000;
+    font-size: 28px;
+   
+}
+.discount-description{
+  color:  #FF0000;
+}
+.discount-category{
+    color: #070211;
+}
+
+/* party styles */
+.party{
+    background-image: url(../new-year-offer-resources/images/Group\ 70.png), url(../new-year-offer-resources/images/Vectorrr.png);
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center right;
+    width: 1320px;
+    height: 600px;
+}
+.party-title{
+    font-weight: bold;
+    font-size: 64px;
+    padding: 126px 0 0 126px;
+    color: #FFFFFF;
+}
+.party-description{
+    font-weight: 400;
+    font-size: 10px;
+    padding-left: 125px;
+    color: #FFFFFF;
+}
+.party-sub-title{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 125px;
+    color: #FFFFFF;
+}
+/* banner2 style */
+.banner2{
+    width: 1320px;
+    height: 482px;
+    
+    margin: auto;
+    text-align: center;
+    background-color: #bbc7bb;
+    
+}
+.banner2-container{
+    padding: 100px 386px;
+  
+
+}
+.text{
+    color: #FF0000;
+}
+.btn{
+    background-color: red;
+    color: #e6d4d4;
 }
